@@ -1,26 +1,50 @@
-# TrumaniTech
+# GodTru Documentation
 
-**Experimental productivity, automation, and workflow systems.**
+## Introduction
+GodTru is a powerful tool designed to enhance productivity and streamline processes in your projects. This comprehensive guide aims to assist you in integrating GodTru into your workflows effectively.
 
-TrumaniTech is a living collection of prototypes, scripts, and technical experiments focused on reducing friction in how people work, think, and execute.
+## Integration Guide
+1. **Install GodTru**: Follow the installation instructions provided in the [installation section](#installation-section).
+2. **Configuration**: Configure GodTru to suit your project needs by editing the `config.json` file.
+3. **Start Using GodTru**: Execute the command `godtru start` to initialize GodTru in your project.
 
-This repository explores:
-- Workflow automation and task optimization
-- Lightweight productivity tools
-- System-level experiments for efficiency and clarity
-- Early-stage concepts that may evolve into standalone projects
+## Quick Start
+To get started quickly with GodTru, follow these steps:
+1. Clone the repository:
+   
+   ```bash
+   git clone https://github.com/Trumanibrilliance360/TrumaniTech.git
+   cd TrumaniTech
+   ```
+2. Install dependencies:
+   
+   ```bash
+   npm install
+   ```
+3. Run GodTru:
+   
+   ```bash
+   godtru start
+   ```
 
-Most projects here are exploratory by design. Expect iteration, refactors, and occasional dead ends — that’s part of the process.
+## Contribution Instructions
+We welcome contributions to GodTru! To contribute:
+1. Fork the repository.
+2. Create a new branch for your feature:
+   
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make your changes and commit:
+   
+   ```bash
+   git commit -m "Add some feature"
+   ```
+4. Push to your branch:
+   
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
 
-## Status
-🚧 Actively evolving. Experiments may change rapidly.
-
-## Philosophy
-Build fast. Simplify relentlessly. Test ideas in the real world.
-
----
-
-More updates and documentation will appear as individual projects mature.Next-gen productivity and automation tools – experiments in progress. 
-
-Short description.
-Trumani Tech is a collection of experimental projects exploring automation, workflow optimization, and future tech concepts. This repository includes scripts, tools, and prototypes designed to simplify tasks, improve efficiency, and test innovative ideas.
+Thank you for helping improve GodTru!
